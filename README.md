@@ -4,4 +4,4 @@ search for keywords to get information related
 
 How to search:
 ================
-"Company or domain" keyword                                
+"Company or domain.com" keyword                                
